@@ -1,0 +1,2 @@
+txt
+This is change in file 2 i am doing for git commit amend
